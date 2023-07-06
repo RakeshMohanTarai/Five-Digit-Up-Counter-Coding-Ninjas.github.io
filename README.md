@@ -1,2 +1,2 @@
-# Five Digit Up Counter Coding Ninjas.github.io
+# Five Digit Up Counter Coding Ninjas
  
